@@ -1,0 +1,3 @@
+{"dataroot_pacs": "C:/Users/benya/Desktop/my_PhD/MAML/datasets/PACS/PACS_DataSet/kfold/", "WEIGHTS_PATH": "C:/Users/bghojogh/Desktop/code_masf/AlexNet_weights/bvlc_alexnet.npy", "filelist_root_pacs": "C:/Users/benya/Desktop/my_PhD/MAML/datasets/PACS/PACS_DataSet/txt_files/splits/",
+ "dataroot_pathology": "C:/Users/bghojogh/Desktop/code_masf/datasets/Pathology_dataset/normalized_dataset_cropped/kfold/", "filelist_root_pathology": "C:/Users/bghojogh/Desktop/code_masf/datasets/Pathology_dataset/normalized_dataset_cropped/txt_files/splits/",
+ "filelist_root_pathology_binary": "C:/Users/bghojogh/Desktop/code_masf/datasets/Pathology_dataset/normalized_dataset_cropped/txt_files/splits_binary/"}

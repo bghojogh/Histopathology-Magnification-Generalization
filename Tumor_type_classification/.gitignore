@@ -1,0 +1,10 @@
+PACS/
+pretrained_weights/
+txt_files/
+.vscode/
+__pycache__/
+log/
+.idea/
+root_generator/
+local_roots.json/
+

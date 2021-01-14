@@ -1,0 +1,18 @@
+{
+    "parent": 
+    {
+        "child": "item"
+    }, 
+
+    "breakhis_label_to_integer": 
+    {
+        "benign_adenosis": 1, 
+        "benign_fibroadenoma": 2, 
+        "benign_phyllodes_tumor": 3,
+        "benign_tubular_adenoma":4,
+        "malignant_ductal_carcinoma":5,
+        "malignant_lobular_carcinoma":6,
+        "malignant_mucinous_carcinoma":7,
+        "malignant_papillary_carcinoma":8
+    }
+}
