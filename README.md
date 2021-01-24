@@ -10,4 +10,8 @@ Link of arXiv version of paper: https://arxiv.org/abs/2101.07757v1
 
 This code/paper uses Model Agnostic Semantic Features (MASF) for the maginification generalization in histopathology image embedding. The paper of MASF is:
 
-- Qi Dou, Daniel Coelho de Castro, Konstantinos Kamnitsas, Ben Glocker, "Domain generalization via model-agnostic learning of semantic features." In Advances in Neural Information Processing Systems, pp. 6450-6461. 2019.
+- Qi Dou, Daniel Coelho de Castro, Konstantinos Kamnitsas, Ben Glocker, "Domain generalization via model-agnostic learning of semantic features." In Advances in Neural Information Processing Systems, pp. 6450-6461, 2019.
+
+The MASF method, itself, is inspired by Model Agnostic Meta-Learning (MAML) whose paper is:
+
+- Chelsea Finn, Pieter Abbeel, Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." In International Conference on Machine Learning, pp. 1126-1135, 2017.
