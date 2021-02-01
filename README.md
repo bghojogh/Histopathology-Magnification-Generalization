@@ -12,6 +12,8 @@ This code/paper uses Model Agnostic Semantic Features (MASF) for the maginificat
 
 - Qi Dou, Daniel Coelho de Castro, Konstantinos Kamnitsas, Ben Glocker, "Domain generalization via model-agnostic learning of semantic features." In Advances in Neural Information Processing Systems, pp. 6450-6461, 2019.
 
+The code of MASF method can be found in the following link: https://github.com/biomedia-mira/masf
+
 The MASF method, itself, is inspired by Model Agnostic Meta-Learning (MAML) whose paper is:
 
 - Chelsea Finn, Pieter Abbeel, Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." In International Conference on Machine Learning, pp. 1126-1135, 2017.
