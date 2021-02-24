@@ -17,3 +17,5 @@ The code of MASF method can be found in the following link: https://github.com/b
 The MASF method, itself, is inspired by Model Agnostic Meta-Learning (MAML) whose paper is:
 
 - Chelsea Finn, Pieter Abbeel, Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." In International Conference on Machine Learning, pp. 1126-1135, 2017.
+
+The tensorflow code of MAML method can be found in the following two links: https://github.com/cbfinn/maml and https://github.com/siavash-khodadadeh/UMTRA-Release
